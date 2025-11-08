@@ -1,2 +1,2 @@
 # FinOps-Learning
-Repo for FinOps programming exercises
+Repo for FinOps programming exercises and videos.
